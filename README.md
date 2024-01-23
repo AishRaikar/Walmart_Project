@@ -16,15 +16,12 @@ c. Random Forest: R2 Score: 0.9530 MSE Score: 15,198,328,551.10 RMSE: 123,281.50
 d. KNN: R2 Score: 0.4891 MSE Score: 165,346,663,650.69 RMSE: 406,628.41
 e. XGBoost: R2 Score: 0.0890 MSE Score: 289,288,446,863.84 RMSE: 537,855.41
 
-Summary Statistics and Statistical Tests:
-Calculated correlation between Weekly Sales and Unemployment Rate.
+Summary Statistics and Statistical Tests: Calculated correlation between Weekly Sales and Unemployment Rate.
 Performed a t-test comparing Weekly Sales between two groups (Group_A and Group_B).
 T-Statistic: -2.03
 P-Value: 0.0425
 
-Time Series Analysis:
-Applied time series analysis to identify seasonal trends in weekly sales.
-Analyzed the impact of variables on weekly sales using scatter plots.
+Time Series Analysis: Applied time series analysis to identify seasonal trends in weekly sales. Analyzed the impact of variables on weekly sales using scatter plots.
 
 Store Ranking and Top-Performing Stores: Aggregated weekly sales data by store and calculated total sales. Ranked the stores based on historical sales to identify top-performing stores.
 
