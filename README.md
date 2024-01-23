@@ -1,6 +1,6 @@
 # Walmart_Project
 Objective:
-The goal of this project is to analyze Walmart's weekly sales data and develop predictive models to forecast sales for the next 12 weeks. The analysis involves statistical analysis, exploratory data analysis (EDA), outlier analysis, handling missing values, and using various predictive modeling techniques.
+This project aims to analyze Walmart's weekly sales data and develop predictive models to forecast sales for the next 12 weeks. The analysis involves statistical analysis, exploratory data analysis (EDA), outlier analysis, handling missing values, and various predictive modeling techniques.
 
 Steps Followed:
 Statistical Analysis and EDA:
@@ -59,13 +59,13 @@ Evaluated the model's performance using MSE: 303,464,742,634.46.
 Conclusion and Recommendations:
 Insights:
 
-Unemployment rate has a significant impact on weekly sales in certain stores.
+The unemployment rate has a significant impact on weekly sales in certain stores.
 Seasonal trends exist, with specific periods showing increased sales.
 Temperature, Consumer Price Index, and Fuel Price also influence weekly sales.
 Store Performance:
 
-Identified top-performing stores and the worst-performing store.
-Observed a significant difference between the highest and lowest performing stores.
+Identified top-performing stores and the worst-performing stores.
+Observed a significant difference between the highest and lowest-performing stores.
 Predictive Modeling:
 
 Random Forest showed the best performance among the models.
@@ -74,6 +74,7 @@ Recommendations:
 
 Monitor and manage inventory based on seasonal trends.
 Consider store-specific strategies for managing sales during high unemployment periods.
+
 Future Work:
 Explore more advanced predictive modeling techniques.
 Investigate external factors impacting sales (e.g., economic indicators).
